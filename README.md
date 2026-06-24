@@ -309,7 +309,7 @@ A high-level business performance dashboard for summary reporting.
 * Coupon Usage Rate
 
 <p align="center">
-  <img src="dashboard_screenshots/executive_bi_dashboard.png" alt="Executive BI Dashboard" width="1000"/>
+  <img src="dashboard_screenshots/Executive BI Dashboard.png" alt="Executive BI Dashboard" width="1000"/>
 </p>
 
 ---
@@ -327,7 +327,7 @@ Analyzes revenue and order trends across time, categories, and brands.
 * Order and quantity metrics
 
 <p align="center">
-  <img src="dashboard_screenshots/sales_analytics_dashboard.png" alt="Sales Analytics Dashboard" width="1000"/>
+  <img src="dashboard_screenshots/Sales Analytics.png" alt="Sales Analytics Dashboard" width="1000"/>
 </p>
 
 ---
@@ -345,7 +345,7 @@ Provides customer distribution, geography, revenue contribution, and purchase be
 * Country-wise and region-wise customer metrics
 
 <p align="center">
-  <img src="dashboard_screenshots/customer_insights_dashboard.png" alt="Customer Insights Dashboard" width="1000"/>
+  <img src="dashboard_screenshots/Customer Insights.png" alt="Customer Insights Dashboard" width="1000"/>
 </p>
 
 ---
@@ -364,7 +364,7 @@ Focuses on product performance, category contribution, and brand-level analysis.
 * Product revenue trends
 
 <p align="center">
-  <img src="dashboard_screenshots/product_analytics_dashboard.png" alt="Product Analytics Dashboard" width="1000"/>
+  <img src="dashboard_screenshots/Product Analytics.png" alt="Product Analytics Dashboard" width="1000"/>
 </p>
 
 ---
@@ -384,7 +384,7 @@ Analyzes revenue composition, discounts, taxes, and channel-level financial perf
 * Top Products by Net Revenue
 
 <p align="center">
-  <img src="dashboard_screenshots/financial_analytics_dashboard.png" alt="Financial Analytics Dashboard" width="1000"/>
+  <img src="dashboard_screenshots/Financial Analytics.png" alt="Financial Analytics Dashboard" width="1000"/>
 </p>
 
 ---
